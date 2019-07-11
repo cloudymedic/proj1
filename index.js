@@ -1,0 +1,1 @@
+console.log('git command are init config checkout and more others');
